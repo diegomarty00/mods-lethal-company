@@ -1,4 +1,4 @@
-# Mobs - Lethal Company
+# Mods - Lethal Company
 
 ## Index
 * [English](#en)
