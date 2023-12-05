@@ -7,7 +7,6 @@
 * [Español](#es)
 * [➥    Instrucciones](#es1)
 * [➥    Mobs utilizados](#es2)
-* [➥    Límites y continuidad de funciones](#id2.3)
 
 
 ## English <a name="en"></a>
@@ -28,6 +27,8 @@ Hello, thank you very much for reading this information, here we will indicate w
 * More suits
 * BoomBox --> No power, Volume controller and Custom Music
 * Keyboard shortcuts (R-Walkie, F-Flashlight, F1-Dance, F2-Finger pointing, [1-4]-Object)
+* EXP system
+* Etc.
 
 
 ## Español <a name="es"></a>
@@ -48,4 +49,9 @@ Buenas, muchas gracias por leer esta información, aquí indicaremos cuales son 
 * Aumentar el lobby
 * Más trajes
 * Radio --> Sin batería, Control de volumen y temas personalizados
-* Keyboard shortcuts (R-Walkie, F-Linterna, F1-Bailar, F2-Señalar con el dedo, [1-4]-Objetos)
+* Atajos de teclado (R-Walkie, F-Linterna, F1-Bailar, F2-Señalar con el dedo, [1-4]-Objetos)
+* Sistema de experiencia
+* Nuevos sonidos de ambiente
+* Etc.
+
+
